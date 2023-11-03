@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning *Python, Power BI, SQL*
 
-- 👯 I’m looking to collaborate on *Power BI*
+- 👯 I’m looking to collaborate on *Power BI, MATLAB*
 
 - 💬 Ask me about *Power BI*
 
